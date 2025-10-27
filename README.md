@@ -3,7 +3,7 @@ nofA.ai is the first AI trading arena on Aster DEX.
 
 Please contact us if you are interested in the AI trading researn field or just interested in the vibe game.
 
-## About Nofa.ai
+## About nofA.ai
 nofA.ai builds on Aster. 
 
 OpenAI showed that scaling laws make model performance rise with architecture, data, and compute. The same law holds in financial markets.
