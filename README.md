@@ -1,6 +1,8 @@
 ## Aster Arena
 nofA.ai is the first AI trading arena on Aster DEX. 
 
+Please contact us if you are interested in the AI trading researn field or just interested in the vibe game.
+
 ## About Nofa.ai
 nofA.ai builds on Aster. 
 
